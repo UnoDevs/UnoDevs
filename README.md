@@ -7,6 +7,9 @@
   <img heigth="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" />
   <img heigth="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/npm/npm-original-wordmark.svg" />
   <img heigth="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" />
+  <img heigth="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
+  <img heigth="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original-wordmark.svg" />
+  <img heigth="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />
 </div>
 
 <div>
@@ -20,9 +23,9 @@
 
   # Projetos
   #### Portifólio UnoDevs
-  <a href="https://unodevs.github.io/src/app/"><img heigth="40" width="40" src="./img/logo-64x64.png" /></a>  
+  <a href="https://unodevs.github.io/src/app/"><img heigth="64" width="64" src="./img/logo-64x64.png" /></a>  
   #### CineMap
-  <a href="https://unodevs.github.io/CineMap.github.io/"><img heigth="40" width="40" src="" /></a>
+  <a href="https://unodevs.github.io/CineMap.github.io/"><img heigth="100" width="100" src="./img/cinemap.png" /></a>
   
 </div>
 
