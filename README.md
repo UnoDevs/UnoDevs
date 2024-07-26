@@ -20,14 +20,12 @@
 <div>
   
   # Projetos
-  <br>
-  <h2>Portifólio UnoDevs</h2>
-  <br>
-  <a><img heigth="64" width="64" src="./img/logo-64x64.png"></a>
-  <br>
-  
+ 
+      
+      
+    <img heigth="64" width="64" src="./img/logo-64x64.png">
 </div>
-
+  
 ##
 
 <div>
