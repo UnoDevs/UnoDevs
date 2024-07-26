@@ -5,7 +5,6 @@
   <img heigth="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
   <img heigth="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
   <img heigth="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" />
-  <img heigth="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" />
   <img heigth="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/npm/npm-original-wordmark.svg" />
   <img heigth="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" />
 </div>
@@ -17,15 +16,17 @@
   <br>
 </div>
 
-<div>
-  
+<div style="display: inline_block;">
+
   # Projetos
- 
-      
-      
-    <img heigth="64" width="64" src="./img/logo-64x64.png">
-</div>
+  #### Portifólio UnoDevs
+  <a href="https://unodevs.github.io/src/app/"><img heigth="40" width="40" src="./img/logo-64x64.png" /></a>
   
+  #### CineMap
+  <a href="https://unodevs.github.io/CineMap.github.io/"><img heigth="40" width="40" /></a>
+  
+</div>
+
 ##
 
 <div>
