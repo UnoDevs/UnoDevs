@@ -1,7 +1,6 @@
 ##
 
 <div style="display: inline_block;"><br>
-  
   # Ferramentas
   
   <img heigth="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
@@ -16,22 +15,18 @@
 ##
 
 <div>
-  <br>
-  
   # Contato
   
   <a href="mailto:projetosunodevs@gmail.com"><img heigth="80" width="80" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <br>
 </div>
 
 ##
 
 <div>
-  <br>
-  
   # Projetos
 
-  
-  
+  <br>
 </div>
 
 ##
