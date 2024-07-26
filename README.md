@@ -20,10 +20,9 @@
 
   # Projetos
   #### Portifólio UnoDevs
-  <a href="https://unodevs.github.io/src/app/"><img heigth="40" width="40" src="./img/logo-64x64.png" /></a>
-  
+  <a href="https://unodevs.github.io/src/app/"><img heigth="40" width="40" src="./img/logo-64x64.png" /></a>  
   #### CineMap
-  <a href="https://unodevs.github.io/CineMap.github.io/"><img heigth="40" width="40" /></a>
+  <a href="https://unodevs.github.io/CineMap.github.io/"><img heigth="40" width="40" src="" /></a>
   
 </div>
 
