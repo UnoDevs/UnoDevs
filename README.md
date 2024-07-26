@@ -21,8 +21,9 @@
   
   # Projetos
   <br>
-  Portifólio UnoDevs
-  <a><img heigth="80" width="80" src="./img/logo-64x64.png"></a>
+  <h2>Portifólio UnoDevs</h2>
+  <br>
+  <a><img heigth="64" width="64" src="./img/logo-64x64.png"></a>
   <br>
   
 </div>
